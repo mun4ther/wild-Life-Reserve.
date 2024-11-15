@@ -1,0 +1,8 @@
+/project-folder
+    /images
+        turtle1.jpg
+        turtle2.jpg
+        turtle3.jpg
+    index.html
+    gallery.html
+    styles.css
